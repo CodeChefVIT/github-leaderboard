@@ -1,3 +1,6 @@
+<p align="center"><a href="https://www.codechefvit.com" target="_blank"><img src="https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo-3.png" title="CodeChef-VIT" alt="Codechef-VIT"></a>
+</p>
+
 # Office Panel and Github Leaderboard
 
 A web application that shows various useful information for the office, like upcoming events and a leaderboard counting the number of Github commits.
@@ -50,4 +53,8 @@ gunicorn -w 1 -b 0.0.0.0:80 app:app
 
 ## License
 
-MIT License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+<p align="center">
+	With :heart: by <a href="https://www.codechefvit.com" target="_blank">CodeChef-VIT</a>
+</p>
